@@ -1,0 +1,40 @@
+{
+  "cases": {
+    "B2": {
+      "trajectory_length": 15.897585432509372,
+      "direction_changes": 1,
+      "expanded_nodes": 689
+    },
+    "B3": {
+      "trajectory_length": 16.33934644510606,
+      "direction_changes": 1,
+      "expanded_nodes": 898
+    },
+    "C2": {
+      "trajectory_length": 8.10684560438051,
+      "direction_changes": 1,
+      "expanded_nodes": 2305
+    },
+    "D3": {
+      "trajectory_length": 16.65346247123608,
+      "direction_changes": 1,
+      "expanded_nodes": 750
+    },
+    "E5": {
+      "trajectory_length": 15.897585432509384,
+      "direction_changes": 1,
+      "expanded_nodes": 602
+    },
+    "D2": {
+      "trajectory_length": 21.946433568666478,
+      "direction_changes": 2,
+      "expanded_nodes": 34394
+    }
+  },
+  "thresholds": {
+    "extra_switches": 0,
+    "length_ratio": 1.15,
+    "nodes_ratio": 2.0,
+    "nodes_abs": 500
+  }
+}
